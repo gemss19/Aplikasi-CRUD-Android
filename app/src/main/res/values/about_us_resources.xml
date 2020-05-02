@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="about_team_drawables">
+        <item>@drawable/ic_profile</item>
+        <item>@drawable/ic_profile</item>
+        <item>@drawable/ic_profile</item>
+        <item>@drawable/ic_profile</item>
+        <item>@drawable/ic_profile</item>
+    </string-array>
+
+    <string-array name="about_team_names">
+        <item>Gema Wahyu Ramadhan - 13180054</item>
+        <item>M. Nurul Anaz - 13180733</item>
+        <item>Muhammad Faldi - 13180148</item>
+        <item>Aqshal Widianto S - 13180403</item>
+        <item>Julia Rahmawati - 13180463</item>
+    </string-array>
+
+    <string-array name="about_team_links" tranlatable="false">
+        <item>https://instagram.com/instagram/</item>
+        <item>https://instagram.com/instagram/</item>
+        <item>https://instagram.com/instagram/</item>
+        <item>https://instagram.com/instagram/</item>
+        <item>https://instagram.com/instagram/</item>
+    </string-array>
+
+</resources>

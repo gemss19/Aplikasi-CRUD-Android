@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top_left">45dp</dimen>
+    <dimen name="top_right">45dp</dimen>
+    <dimen name="bottom_left">0dp</dimen>
+    <dimen name="bottom_right">0dp</dimen>
+    <dimen name="img">50.0dp</dimen>
+    <dimen name="imgLogo">80.0dp</dimen>
+    <dimen name="corner_grid">15dp</dimen>
+    <dimen name="margin_grid">16dp</dimen>
+    <dimen name="padding_add">16dp</dimen>
+    <string name="addTheme">Tambah Karyawan</string>
+    <string name="listTheme">Daftar Karyawan</string>
+    <string name="detailTheme">Detail Karyawan</string>
+</resources>
